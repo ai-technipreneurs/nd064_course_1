@@ -5,7 +5,7 @@
   
   
   
-                                               SUSE Scholarship program Cloud Native Foundations Course 
+                                        SUSE Scholarship program Cloud Native Foundations Course 
                                              
 
 
