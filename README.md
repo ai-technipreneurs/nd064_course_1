@@ -12,4 +12,9 @@
   
   
 Details on the programme can be found at [SUSE](https://www.suse.com/c/suse-sponsors-300-scholarships-in-cloud-native-education-src/) and [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship).
+
+
+Useful links:
+
+https://stackoverflow.com/questions/66894200/go-go-mod-file-not-found-in-current-directory-or-any-parent-directory-see-go
  
